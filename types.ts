@@ -11,6 +11,7 @@ export interface DailyData {
 }
 
 export type AppState =
+  | 'PROMPT_FULLSCREEN'
   | 'INITIAL_LOAD'
   | 'UPLOAD'
   | 'GENERATING'
