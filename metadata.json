@@ -1,0 +1,5 @@
+{
+  "name": "Daily Aptitude Streak",
+  "description": "An app that provides a daily aptitude and reasoning question generated from an uploaded PDF, allowing users to maintain a daily answer streak.",
+  "requestFramePermissions": []
+}
